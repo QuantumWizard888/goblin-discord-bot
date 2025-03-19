@@ -269,10 +269,10 @@ time_schedule = [
 @tasks.loop(time = time_schedule)
 async def stream_notification_task():
     
-    guild_m = bot.get_guild() # Guild ID  
-    channel_m = bot.get_channel() # Channel ID
-    user_m = await bot.fetch_user() # User ID == Member ID
-    member_m = guild_m.get_member() # Member ID == User ID
+    guild_m = bot.get_guild() # Put Guild ID here
+    channel_m = bot.get_channel() # Put Channel ID here
+    user_m = await bot.fetch_user() # Put User ID here (User ID == Member ID)
+    member_m = guild_m.get_member() # Put Member ID here (Member ID == User ID)
     
     # for member_i in guild_m.members:
     #     print(member_i.name, member_i.id, member_i.status)
