@@ -1,0 +1,8 @@
+**g>helpme**                      - Displays this help info
+**g>version**                   - Displays my version
+**g>attack @User**      - Kick other User with a picture of how I'm kicking User (other command variants: 'Give\_slap', 'give\_slap', 'Hit', 'hit', 'Kick', 'kick')
+**g>hello**                     - Say hello to me (other command variants: 'Hello', 'hello', 'Hi', 'hi', 'Howdy', 'howdy', 'Greetings', 'greetings')
+**g>calc "expression"**           - Math expressions calculator (pretty advanced) which is based on **MathJS** (if you want more info, google it, you lazy bastards). Command example: **g>calc "2*(6^3+10)"**. DOUBLE QUOTES are necessary for expression argument, use SINGLE QUOTES if you pass some function as an argument. Command example: **g>calc "derivative('2x^2 + 3x + 4', 'x')"**
+**g>tamriel\_day**              - Show current Tamriel calendar day (I know that there are a lot of cunning scoundrels among you from Tamriel provinces!)
+**g>money**						- Display currencies quotes (most popular) relative to Russian Rubble for today set by RU Central bank
+**g>money\_forex**				- Display currencies quotes (most popular) relative to Russian Rubble for today on FOREX
