@@ -16,10 +16,11 @@ Just add some phrases LINE BY LINE to `attack_command_answers.txt` and `hello_co
 2. Drop images that you like (name it like `attack_1.png`, `attack_2.png` and something like that) to `attack_imgs`
 3. Enjoy!
 
+## === More features, please? When? ===
+Someday.
+
 ## === Requirements ===
-* discord.py
-* urllib
-* requests
-* json
-* lxml
-* bs4
+* [discord.py](https://discordpy.readthedocs.io/en/stable/)
+* [requests](https://requests.readthedocs.io/en/latest/)
+* [lxml](https://lxml.de/)
+* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/)
