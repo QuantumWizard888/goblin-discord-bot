@@ -6,7 +6,7 @@ Simple Discord bot by the name of Goblin of Underworld which can give you a smil
 * Give a kick to any user (with a proper image description, which is determined by you)
 * Calculate complex math expressions
 * Tell you what's the current day according to Tamriel calendar
-* Display info about currencies (relative to Russian Rubble, yeah, because Goblin is russian)
+* Display info about currencies (relative to Russian Rubble, yeah, because this Goblin is russian)
 
 ## === How to add Hello and Attack commands answers ===
 Just add some phrases LINE BY LINE to `attack_command_answers.txt` and `hello_command_answers.txt`. Yes, LINE BY LINE separated just by a new line and nothing more.
