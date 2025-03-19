@@ -4,6 +4,7 @@ Simple Discord bot by the name of Goblin from Underworld which can give you a sm
 ## === This bot can ===
 * Say hello to you (in his own peculiar manner)
 * Give a kick to any user (with a proper image description, which is determined by you)
+* Display a notification if some user is OFFLINE at particular time
 * Calculate complex math expressions
 * Tell you what's the current day according to Tamriel calendar
 * Display info about currencies (relative to Russian Rubble, yeah, because this Goblin is russian)
